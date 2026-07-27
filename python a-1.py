@@ -1,0 +1,13 @@
+print("=" * 50)
+print("PERSONAL INFORMATION")
+print("=" * 50)
+print()
+print("Full Name:       DE GUZMAN, JOHN CHRISTIAN P.")
+print("Age:             18")
+print("Course:          Information Technology")
+print("Section:         BSIT1-S10")
+print("Address:         Tutuban St, Gapan City, Nueva Ecija, Philippines, 3105")
+print("Favorite Hobby:  Basketball")
+print()
+print("=" * 50)
+
